@@ -127,7 +127,17 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Emetteur.cpp" />
+    <ClCompile Include="library.cpp" />
     <ClCompile Include="Prosit_4.cpp" />
+    <ClCompile Include="Radio.cpp" />
+    <ClCompile Include="Recepteur.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Emetteur.h" />
+    <ClInclude Include="library.h" />
+    <ClInclude Include="Radio.h" />
+    <ClInclude Include="Recepteur.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
