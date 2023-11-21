@@ -4,6 +4,7 @@ Avant de rédiger le code, il est essentiel de comprendre les exigences des clie
 
 Voici le diagramme de cas d'utilisation qui représente le cas particulier du scénario professionnel (prosit) :
 
+![Diagramme de cas d'utilisation (1)](https://github.com/peio933/Prosit_4/assets/116553253/75ec5831-a690-4e10-b4c5-4b0233804d22)
 
 
 ## 1.2 Diagramme de classes
